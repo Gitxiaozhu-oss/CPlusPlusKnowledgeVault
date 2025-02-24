@@ -1,0 +1,3 @@
+/Users/zhulei/qt_project/picture_alter/movie_recommender/build/CMakeFiles/movie_recommender.dir
+/Users/zhulei/qt_project/picture_alter/movie_recommender/build/CMakeFiles/edit_cache.dir
+/Users/zhulei/qt_project/picture_alter/movie_recommender/build/CMakeFiles/rebuild_cache.dir
