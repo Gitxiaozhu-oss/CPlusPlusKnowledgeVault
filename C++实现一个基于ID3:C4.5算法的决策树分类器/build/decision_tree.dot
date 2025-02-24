@@ -1,0 +1,23 @@
+digraph DecisionTree {
+    node0 [label="特征 2 <= 3.800000"];
+    node1 [label="Iris-setosa"];
+    node0 -> node1 [label="是"];
+    node2 [label="特征 3 <= 1.753846"];
+    node3 [label="特征 0 <= 6.214286"];
+    node4 [label="特征 1 <= 2.600000"];
+    node5 [label="Iris-virginica"];
+    node4 -> node5 [label="是"];
+    node6 [label="Iris-versicolor"];
+    node4 -> node6 [label="否"];
+    node3 -> node4 [label="是"];
+    node7 [label="Iris-versicolor"];
+    node3 -> node7 [label="否"];
+    node2 -> node3 [label="是"];
+    node8 [label="特征 1 <= 3.066667"];
+    node9 [label="Iris-virginica"];
+    node8 -> node9 [label="是"];
+    node10 [label="Iris-virginica "];
+    node8 -> node10 [label="否"];
+    node2 -> node8 [label="否"];
+    node0 -> node2 [label="否"];
+}

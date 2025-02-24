@@ -1,0 +1,3 @@
+/Users/zhulei/qt_project/picture_alter/decision_tree_iris/build/CMakeFiles/decision_tree.dir
+/Users/zhulei/qt_project/picture_alter/decision_tree_iris/build/CMakeFiles/edit_cache.dir
+/Users/zhulei/qt_project/picture_alter/decision_tree_iris/build/CMakeFiles/rebuild_cache.dir
