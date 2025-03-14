@@ -1,0 +1,4 @@
+/Users/zhulei/Downloads/trae_project/Hsmm-HTTP-Server/build/CMakeFiles/hsmmserver.dir
+/Users/zhulei/Downloads/trae_project/Hsmm-HTTP-Server/build/CMakeFiles/stress_test.dir
+/Users/zhulei/Downloads/trae_project/Hsmm-HTTP-Server/build/CMakeFiles/edit_cache.dir
+/Users/zhulei/Downloads/trae_project/Hsmm-HTTP-Server/build/CMakeFiles/rebuild_cache.dir
